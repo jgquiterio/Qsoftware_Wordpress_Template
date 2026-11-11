@@ -1,0 +1,41 @@
+# PRJ-0006 — Qsoftware Multipurpose WordPress Template
+
+## 1. OBJETIVO
+
+Desenvolver um tema WordPress multipurpose, moderno, responsivo e reutilizável, destinado a empresas, agências e profissionais que desejam estabelecer sua presença digital.
+
+## 2. DESCRIÇÃO
+
+O projeto consiste na criação de um tema WordPress próprio, com identidade visual premium, navegação intuitiva e estrutura modular, permitindo sua instalação e reutilização em diferentes projetos.
+
+## 3. FUNCIONALIDADES
+
+- Página inicial (Home).
+- Página About.
+- Página Services.
+- Página Portfolio.
+- Página Blog.
+- Página Contact.
+- Menu de navegação responsivo.
+- Seções de chamadas para ação (CTA).
+- Galeria de projetos.
+- Depoimentos.
+- Formulário de contato.
+- Footer com redes sociais.
+
+## 4. TECNOLOGIAS
+
+- WordPress
+- PHP
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+
+## 5. RESULTADO ESPERADO
+
+Entregar um tema WordPress instalável, responsivo, organizado e reutilizável, adequado para apresentação no portfólio internacional da Upwork.
+
+## 6. LIMITES DO PROJETO
+
+O projeto contempla o desenvolvimento do tema WordPress. Não contempla hospedagem, domínio, produção de conteúdo para clientes ou integrações externas pagas.

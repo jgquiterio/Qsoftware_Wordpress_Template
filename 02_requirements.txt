@@ -1,0 +1,67 @@
+# PRJ-0006 — Qsoftware Multipurpose WordPress Template
+
+## 1. REQUISITOS FUNCIONAIS
+
+RF01 — O tema deverá ser instalável no WordPress.
+
+RF02 — O tema deverá apresentar uma página Home.
+
+RF03 — O tema deverá disponibilizar as páginas About, Services, Portfolio, Blog e Contact.
+
+RF04 — O tema deverá possuir menu de navegação responsivo.
+
+RF05 — O tema deverá apresentar seções de serviços.
+
+RF06 — O tema deverá apresentar uma galeria de projetos.
+
+RF07 — O tema deverá apresentar depoimentos.
+
+RF08 — O tema deverá disponibilizar chamadas para ação (CTA).
+
+RF09 — O tema deverá possuir formulário de contato.
+
+RF10 — O tema deverá apresentar footer com redes sociais.
+
+RF11 — O tema deverá permitir a utilização de conteúdo gerenciado pelo WordPress.
+
+## 2. REQUISITOS NÃO FUNCIONAIS
+
+RNF01 — O layout deverá ser responsivo.
+
+RNF02 — O código deverá seguir boas práticas de desenvolvimento WordPress.
+
+RNF03 — O tema deverá possuir código organizado e reutilizável.
+
+RNF04 — O layout deverá apresentar identidade visual moderna e profissional.
+
+RNF05 — O tema deverá oferecer compatibilidade com navegadores modernos.
+
+RNF06 — O desenvolvimento deverá considerar boas práticas básicas de SEO e acessibilidade.
+
+## 3. REGRAS DE NEGÓCIO
+
+RN01 — O tema deverá funcionar como um template multipurpose.
+
+RN02 — As páginas deverão utilizar a identidade visual padronizada do projeto.
+
+RN03 — Os conteúdos deverão ser gerenciados pela estrutura nativa do WordPress sempre que aplicável.
+
+RN04 — O tema deverá permitir reutilização em diferentes segmentos comerciais.
+
+## 4. CRITERIO DE ACEITE
+
+CA01 — O tema deverá ser instalado e ativado sem erros no WordPress.
+
+CA02 — Todas as páginas previstas deverão estar disponíveis.
+
+CA03 — O menu deverá funcionar em dispositivos desktop e mobile.
+
+CA04 — Os componentes deverão apresentar comportamento responsivo.
+
+CA05 — Os conteúdos deverão ser exibidos corretamente.
+
+CA06 — O formulário de contato deverá validar os campos obrigatórios.
+
+CA07 — O tema deverá apresentar identidade visual consistente.
+
+CA08 — O código deverá estar organizado e pronto para reutilização.

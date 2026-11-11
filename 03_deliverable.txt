@@ -1,0 +1,47 @@
+# PRJ-0006 — Qsoftware Multipurpose WordPress Template
+
+## 1. ENTREGÁVEIS
+
+01 — Tema WordPress multipurpose instalável.
+
+02 — Página Home.
+
+03 — Página About.
+
+04 — Página Services.
+
+05 — Página Portfolio.
+
+06 — Página Blog.
+
+07 — Página Contact.
+
+08 — Menu responsivo.
+
+09 — Componentes reutilizáveis.
+
+10 — Formulário de contato.
+
+11 — Layout responsivo para desktop, tablet e mobile.
+
+12 — Código-fonte organizado.
+
+## 2. DOCUMENTAÇÃO
+
+- escopo.txt
+- requisitos.txt
+- entregas.txt
+- README.md
+
+## 3. VALIDAÇÕES
+
+- Instalação e ativação do tema.
+- Verificação das páginas.
+- Testes de responsividade.
+- Testes de navegação.
+- Validação do formulário.
+- Verificação de compatibilidade com WordPress.
+
+## 4. RESULTADO FINAL
+
+Tema WordPress profissional, reutilizável e pronto para demonstração no portfólio internacional da Upwork.
