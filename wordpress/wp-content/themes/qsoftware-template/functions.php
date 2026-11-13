@@ -23,4 +23,14 @@ function qsoftware_template_enqueue_assets() {
     );
 }
 
+function qsoftware_template_register_menus() {
+
+    register_nav_menus(array(
+        'primary' => __('Primary Menu', 'qsoftware-template'),
+    ));
+
+}
+
+add_action('after_setup_theme', 'qsoftware_template_register_menus');
+
 add_action('wp_enqueue_scripts', 'qsoftware_template_enqueue_assets');

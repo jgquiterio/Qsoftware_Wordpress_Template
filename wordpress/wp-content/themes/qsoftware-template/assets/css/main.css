@@ -3,3 +3,47 @@
  *
  * @package Qsoftware_Template
  */
+
+/* Header */
+
+.site-header {
+    width: 100%;
+    background-color: #111827;
+    color: #ffffff;
+    padding: 20px 40px;
+}
+
+.site-header__container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.site-branding a {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.primary-menu {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.primary-menu a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 15px;
+    transition: color 0.3s ease;
+}
+
+.primary-menu a:hover {
+    color: #3b82f6;
+}
